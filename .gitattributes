@@ -1,1 +1,10 @@
+# Normalización de finales de línea para compatibilidad entre Windows y Linux
+* text=auto eol=crlf
 
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
+*.exe binary
+*.png binary
+*.pdf binary

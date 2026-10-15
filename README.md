@@ -18,7 +18,7 @@ Además, permite la lectura y despliegue del historial acumulado (`ifstream`), g
 * **Materia:** Laboratorio de Programación (LPR)
 * **Curso:** 5° Año 3° División (Grupos A-B)
 * **Estudiante:** Ferrari Ulises
-* **Profesor:** Mansilla Muñoz York Elías
+* **Profesor:** Mansilla Muñoz York Elías y Ganduglia Yamil
 * **Ciclo Lectivo:** 2° Cuatrimestre 2026
 
 ---
